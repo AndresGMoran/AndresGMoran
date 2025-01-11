@@ -100,6 +100,8 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode"></a>
   &emsp;
+    <a href="#"><img alt="Android Studio" src="https://skillicons.dev/icons?i=androidstudio"></a>
+  &emsp;
     <a href="#"><img alt="JetBrain" src="https://skillicons.dev/icons?i=idea" /></a>
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://skillicons.dev/icons?i=eclipse" /></a>
