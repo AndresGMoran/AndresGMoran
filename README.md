@@ -91,7 +91,7 @@
  
 <p>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode"></a>
+    <a href="#" title="Visual Studio Code"><img alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode"></a>
   &emsp;
     <a href="#"><img alt="Android Studio" src="https://skillicons.dev/icons?i=androidstudio"></a>
   &emsp;
