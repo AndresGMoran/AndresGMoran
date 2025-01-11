@@ -42,8 +42,6 @@
 
 ### Programming languages
 
-----
-
 <p> 
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
