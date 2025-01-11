@@ -30,7 +30,7 @@
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
+<p>
 	<a href="mailto:moranandres79@gmail.com"><img img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
 	<a href="https://github.com/AndresGMoran"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/andr%C3%A9s-glyn-moran-lamela-873266147/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
