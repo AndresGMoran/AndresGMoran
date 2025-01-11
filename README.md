@@ -29,10 +29,13 @@
 	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## Connect with me
 <p>
+	&emsp;
 	<a href="mailto:moranandres79@gmail.com"><img img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
+	&emsp;
 	<a href="https://github.com/AndresGMoran"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+	&emsp;
 	<a href="https://www.linkedin.com/in/andr%C3%A9s-glyn-moran-lamela-873266147/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
 </p>
 
