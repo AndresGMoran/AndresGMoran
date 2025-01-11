@@ -45,7 +45,7 @@
 <p align="center"> 
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="[https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white](https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg?short_path=76187b1)">
+    <img alt="Java" src="https://skillicons.dev/icons?i=java">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
