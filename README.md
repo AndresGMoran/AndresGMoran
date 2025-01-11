@@ -47,23 +47,23 @@
 
 <p> 
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="https://www.java.com" target="_blank" title="Java"> 
     <img alt="Java" src="https://skillicons.dev/icons?i=java">
   </a>
   &emsp;
-   <a href="https://www.python.org" target="_blank">
+   <a href="https://www.python.org" target="_blank" title="Python">
     <img alt="Python" src="https://skillicons.dev/icons?i=py">
   </a>
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://www.w3.org/html/" target="_blank" title="HTML"> 
    <img alt="HTML" src="https://skillicons.dev/icons?i=html">
   </a>   
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://www.w3schools.com/css/" target="_blank" title="CSS">
     <img alt="CSS" src="https://skillicons.dev/icons?i=css">
   </a>
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"> 
      <img alt="JavaScript" src="https://skillicons.dev/icons?i=js">
    </a>
 </p>
@@ -72,19 +72,19 @@
  
 <p>
   &emsp;
-    <a href="#"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
+    <a href="#" title="Git"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://skillicons.dev/icons?i=github"></a>
+    <a href="#" title="Github"><img alt="GitHub" src="https://skillicons.dev/icons?i=github"></a>
   &emsp;
-    <a href="#"><img alt="Hibernate" src="https://skillicons.dev/icons?i=hibernate"></a>
+    <a href="#" title="Hibernate"><img alt="Hibernate" src="https://skillicons.dev/icons?i=hibernate"></a>
  &emsp;
-    <a href="#"><img src="https://skillicons.dev/icons?i=mysql"/></a>
+    <a href="#" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql"/></a>
  &emsp;
-    <a href="#"><img src="https://skillicons.dev/icons?i=sqlite"/></a>
+    <a href="#" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite"/></a>
  &emsp;
-    <a href="#"><img src="https://skillicons.dev/icons?i=mongodb"/></a>
+    <a href="#" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb"/></a>
  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://skillicons.dev/icons?i=stackoverflow"></a>
+    <a href="#" title="Stack Overflow"><img alt="Stack Overflow" src="https://skillicons.dev/icons?i=stackoverflow"></a>
 </p>
 
  ## IDEs
@@ -93,22 +93,22 @@
   &emsp;
     <a href="#" title="Visual Studio Code"><img alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode"></a>
   &emsp;
-    <a href="#"><img alt="Android Studio" src="https://skillicons.dev/icons?i=androidstudio"></a>
+    <a href="#" title="Android Studio"><img alt="Android Studio" src="https://skillicons.dev/icons?i=androidstudio"></a>
   &emsp;
-    <a href="#"><img alt="JetBrain" src="https://skillicons.dev/icons?i=idea" /></a>
+    <a href="#" title="JetBrain Idea"><img alt="JetBrain idea" src="https://skillicons.dev/icons?i=idea" /></a>
   &emsp;
-    <a href="#"><img alt="Eclipse" src="https://skillicons.dev/icons?i=eclipse" /></a>
+    <a href="#" title="Eclipse"><img alt="Eclipse" src="https://skillicons.dev/icons?i=eclipse" /></a>
 </p>
 
  ## Operating Systems
  
 <p>
   &emsp;
-    <a href="#"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
+    <a href="#" title="Linux"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
   &emsp;
-    <a href="#"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"></a>
+    <a href="#" title="Windows"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"></a>
   &emsp;
-    <a href="#"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>
+    <a href="#" title="Ubuntu"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>
 </p>
 
 <br> 
