@@ -99,7 +99,7 @@
 
  ## Operating Systems
  
-<p align="center">
+<p>
   &emsp;
     <a href="#"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
   &emsp;
