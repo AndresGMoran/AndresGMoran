@@ -20,10 +20,10 @@
 ✨ Here are some of the projects I'm most proud of:
 
 [![Recreativa](https://img.shields.io/badge/-Recreativa-blue?style=for-the-badge&logo=video-game&logoColor=white)](https://github.com/AndresGMoran/Recreativa)  
-An app with multiple games to play, offering a fun and engaging experience. Used technologies: Java, json and Android Studio.
+An app with multiple games to play, offering a fun and engaging experience. `Used technologies:` Java, json and Android Studio.
 
 [![Battleship](https://img.shields.io/badge/-Battleship-blue?style=for-the-badge&logo=anchor&logoColor=white)](https://github.com/AndresGMoran/BattleShip)  
-A classic Battleship game featuring CPU mode and 1v1, where players strategically sink their opponent's ships. Used technologies: Java and JetBrains Idea.
+A classic Battleship game featuring CPU mode and 1v1, where players strategically sink their opponent's ships. `Used technologies:` Java and JetBrains Idea.
 
 [![Task Manager](https://img.shields.io/badge/-Task%20Manager-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/yourusername/task-manager)  
 A task management app with user authentication and real-time updates for an efficient workflow.
