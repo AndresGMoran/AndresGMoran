@@ -28,6 +28,9 @@ A classic Battleship game featuring CPU mode and 1v1, where players strategicall
 [![Points of interest manager](https://img.shields.io/badge/-Points%20of%20interest%20manager-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/AndresGMoran/POI-Manager)  
 Application for managing points of interest with a MySQL and MongoDB database, featuring a complete CRUD functionality. `Used technologies:` Java, MySQL, MongoDB and Eclipse.
 
+[![MultiThreadApp](https://img.shields.io/badge/-MultiThread%20App-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/AndresGMoran/MultiThreadApp)  
+Application with multiple functionalities, each running on its own thread. `Used technologies:` Python and Visual Studio Code.
+
 
 ## 🤝 Connect with me
 <p>
