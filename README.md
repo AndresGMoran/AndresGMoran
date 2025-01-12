@@ -15,7 +15,21 @@
 - :nerd_face: Always `learning new things`.
 <br>
 
-## Connect with me
+## 📌 Featured Repositories
+
+✨ Here are some of the projects I'm most proud of:
+
+[![My Portfolio App](https://img.shields.io/badge/-My%20Portfolio%20App-blue?style=for-the-badge&logo=react&logoColor=white)](https://github.com/yourusername/portfolio-app)  
+A personal portfolio website built with React, showcasing my skills and projects.
+
+[![Weather App](https://img.shields.io/badge/-Weather%20App-blue?style=for-the-badge&logo=weather&logoColor=white)](https://github.com/yourusername/weather-app)  
+A weather app that fetches live data using an external API and displays real-time weather information.
+
+[![Task Manager](https://img.shields.io/badge/-Task%20Manager-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/yourusername/task-manager)  
+A task management app with user authentication and real-time updates for an efficient workflow.
+
+
+## 🤝 Connect with me
 <p>
 	&emsp;
 	<a href="mailto:moranandres79@gmail.com"><img img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
@@ -24,15 +38,6 @@
 	&emsp;
 	<a href="https://www.linkedin.com/in/andr%C3%A9s-glyn-moran-lamela-873266147/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
 </p>
-
-## 📌 Featured Repositories
-
-Here are some of the projects I’m most proud of:
-
-- [**Repository 1 Name**](https://github.com/yourusername/repository1) - A brief description of what this project does.
-- [**Repository 2 Name**](https://github.com/yourusername/repository2) - A brief description of what this project does.
-- [**Repository 3 Name**](https://github.com/yourusername/repository3) - A brief description of what this project does.
-
 
 ---
 
