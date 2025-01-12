@@ -25,8 +25,6 @@
 	<a href="https://www.linkedin.com/in/andr%C3%A9s-glyn-moran-lamela-873266147/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
 </p>
 
----
-
 ## 📌 Featured Repositories
 
 Here are some of the projects I’m most proud of:
