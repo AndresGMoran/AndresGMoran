@@ -65,7 +65,7 @@ Application with multiple functionalities, each running on its own thread. `Used
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AndresGMoran&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AndresGMoran&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="AndresGMoran" /></a> </p>
 	
 </details>
 
