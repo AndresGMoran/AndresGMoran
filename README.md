@@ -19,6 +19,9 @@
 
 ✨ Here are some of the projects I'm most proud of:
 
+[![ResiSuite](https://img.shields.io/badge/-Recreativa-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/AndresGMoran/TFG-ResiSuite)  
+Final project for the Multiplatform Application Development (DAM) program. It includes a mobile app for staff to manage daily tasks and view stats, and a tablet app for residents with interactive cognitive stimulation games to enhance memory and engagement. `Used technologies:` Java, GDScript, Figma, Godot and Android Studio.
+
 [![Recreativa](https://img.shields.io/badge/-Recreativa-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/AndresGMoran/Recreativa)  
 An app with multiple games to play, offering a fun and engaging experience. `Used technologies:` Java, json and Android Studio.
 
