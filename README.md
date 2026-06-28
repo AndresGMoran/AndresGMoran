@@ -1,150 +1,57 @@
-<h1 align="center">Hi , I'm Andrés Moran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <img src="Banner_am.png" alt="Banner" width="100%"/>
+</div>
 
 <br>
 
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+Desarrollador con base en Sistemas y Redes y graduado en Desarrollo de Aplicaciones Multiplataforma en el IES La Mar, Xàbia, con especialización en Inteligencia Artificial y Big Data. He trabajado en proyectos que van desde aplicaciones Android y juegos en Godot hasta herramientas con IA generativa y análisis de datos.
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<br>
+
+## 📌 Proyectos destacados
+
+<a href="https://github.com/AndresGMoran/TFG-ResiSuite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndresGMoran&repo=TFG-ResiSuite&theme=tokyonight&title_color=1f6feb&icon_color=1f6feb&border_color=1f6feb&bg_color=0d1117" />
+</a>
+<a href="https://github.com/AndresGMoran/Recreativa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndresGMoran&repo=Recreativa&theme=tokyonight&title_color=1f6feb&icon_color=1f6feb&border_color=1f6feb&bg_color=0d1117" />
+</a>
 
 <br><br>
 
-- :school: I am a `Junior programmer` studying a Higher Degree in Multiplatform Application Development at [IES La Mar Javea](https://portal.edu.gva.es/ieslamar/).
-- :technologist: I love using Software as a solution for every `Problem`.
-- 💡 Building projects to apply my knowledge and explore innovative technologies.
-- :nerd_face: Always `learning new things`.
+<a href="https://github.com/AndresGMoran/BattleShip">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndresGMoran&repo=BattleShip&theme=tokyonight&title_color=1f6feb&icon_color=1f6feb&border_color=1f6feb&bg_color=0d1117" />
+</a>
+<a href="https://github.com/AndresGMoran/POI-Manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndresGMoran&repo=POI-Manager&theme=tokyonight&title_color=1f6feb&icon_color=1f6feb&border_color=1f6feb&bg_color=0d1117" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/AndresGMoran/Car-Insurance-Manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndresGMoran&repo=Car-Insurance-Manager&theme=tokyonight&title_color=1f6feb&icon_color=1f6feb&border_color=1f6feb&bg_color=0d1117" />
+</a>
+<a href="https://github.com/AndresGMoran/MultiThreadApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndresGMoran&repo=MultiThreadApp&theme=tokyonight&title_color=1f6feb&icon_color=1f6feb&border_color=1f6feb&bg_color=0d1117" />
+</a>
+
+<br><br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresGMoran&show_icons=true&count_private=true&theme=tokyonight&bg_color=0d1117&border_color=1f6feb" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndresGMoran&langs_count=8&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=1f6feb" height="165px"/>
+</div>
+
 <br>
 
-## 📌 Featured Repositories
+## 🤝 Contacto
 
-✨ Here are some of the projects I'm most proud of:
+<div align="center">
 
-[![ResiSuite](https://img.shields.io/badge/-ResiSuite-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/AndresGMoran/TFG-ResiSuite)  
-Final project for the Multiplatform Application Development (DAM) program. It includes a mobile app for staff to manage daily tasks and view statistics, and a tablet app for residents with interactive cognitive stimulation games to enhance memory and engagement — creating a connected ecosystem. `Used technologies:` Java, GDScript, Figma, Godot and Android Studio.
+[![Gmail](https://img.shields.io/badge/moranandres79@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moranandres79@gmail.com)
+[![GitHub](https://img.shields.io/badge/AndresGMoran-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndresGMoran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-glyn-moran-lamela-873266147/)
 
-[![Recreativa](https://img.shields.io/badge/-Recreativa-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/AndresGMoran/Recreativa)  
-An app with multiple games to play, offering a fun and engaging experience. `Used technologies:` Java, json and Android Studio.
-
-[![Battleship](https://img.shields.io/badge/-Battleship-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/AndresGMoran/BattleShip)  
-A classic Battleship game featuring CPU mode and 1v1, where players strategically sink their opponent's ships. `Used technologies:` Java and JetBrains Idea.
-
-[![Points of interest manager](https://img.shields.io/badge/-Points%20of%20interest%20manager-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/AndresGMoran/POI-Manager)  
-Application for managing points of interest with a MySQL and MongoDB database, featuring a complete CRUD functionality. `Used technologies:` Java, MySQL, MongoDB and Eclipse.
-
-[![Car Insurance Manager](https://img.shields.io/badge/-Car%20insurance%20manager-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/AndresGMoran/Car-Insurance-Manager)  
-Application for managing individuals who own cars, track accidents, and manage insurance policies. `Used technologies:` Java, MySQL, Hibernate and Eclipse.
-
-[![MultiThreadApp](https://img.shields.io/badge/-MultiThread%20App-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/AndresGMoran/MultiThreadApp)  
-Application with multiple functionalities, each running on its own thread. `Used technologies:` Python and Visual Studio Code.
-
-
-## 🤝 Connect with me
-<p>
-	&emsp;
-	<a href="mailto:moranandres79@gmail.com"><img img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
-	&emsp;
-	<a href="https://github.com/AndresGMoran"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-	&emsp;
-	<a href="https://www.linkedin.com/in/andr%C3%A9s-glyn-moran-lamela-873266147/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-</p>
-
----
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndresGMoran&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndresGMoran&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="AndresGMoran" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AndresGMoran&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="AndresGMoran" /></a> </p>
-	
-</details>
-
----
-
-## 🛠️ My Skills
-
-## Programming languages
-
-<p> 
-  &emsp;
-  <a href="https://www.java.com" target="_blank" title="Java"> 
-    <img alt="Java" src="https://skillicons.dev/icons?i=java">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank" title="Python">
-    <img alt="Python" src="https://skillicons.dev/icons?i=py">
-  </a>
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank" title="HTML"> 
-   <img alt="HTML" src="https://skillicons.dev/icons?i=html">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" title="CSS">
-    <img alt="CSS" src="https://skillicons.dev/icons?i=css">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"> 
-     <img alt="JavaScript" src="https://skillicons.dev/icons?i=js">
-   </a>
-</p>
-
- ## Software & Tools
- 
-<p>
-  &emsp;
-    <a href="#" title="Git"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
-  &emsp;
-    <a href="#" title="Github"><img alt="GitHub" src="https://skillicons.dev/icons?i=github"></a>
-  &emsp;
-    <a href="#" title="Hibernate"><img alt="Hibernate" src="https://skillicons.dev/icons?i=hibernate"></a>
- &emsp;
-    <a href="#" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql"/></a>
- &emsp;
-    <a href="#" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite"/></a>
- &emsp;
-    <a href="#" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb"/></a>
- &emsp;
-    <a href="#" title="Stack Overflow"><img alt="Stack Overflow" src="https://skillicons.dev/icons?i=stackoverflow"></a>
-</p>
-
- ## IDEs
- 
-<p>
-  &emsp;
-    <a href="#" title="Visual Studio Code"><img alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode"></a>
-  &emsp;
-    <a href="#" title="Android Studio"><img alt="Android Studio" src="https://skillicons.dev/icons?i=androidstudio"></a>
-  &emsp;
-    <a href="#" title="JetBrain Idea"><img alt="JetBrain idea" src="https://skillicons.dev/icons?i=idea" /></a>
-  &emsp;
-    <a href="#" title="Eclipse"><img alt="Eclipse" src="https://skillicons.dev/icons?i=eclipse" /></a>
-</p>
-
- ## Operating Systems
- 
-<p>
-  &emsp;
-    <a href="#" title="Linux"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
-  &emsp;
-    <a href="#" title="Windows"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"></a>
-  &emsp;
-    <a href="#" title="Ubuntu"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>
-</p>
-
-</br></br>
+</div>
