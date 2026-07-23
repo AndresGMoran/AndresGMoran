@@ -4,53 +4,63 @@
 
 <br>
 
-Desarrollador con base en Sistemas y Redes y graduado en Desarrollo de Aplicaciones Multiplataforma en el IES La Mar, Xàbia, con especialización en Inteligencia Artificial y Big Data. He trabajado en proyectos que van desde aplicaciones Android y juegos en Godot hasta herramientas con IA generativa y análisis de datos.
+# ¡Hola! 👋 Soy Andrés Moran
 
-<br>
+Desarrollador con formación en Sistemas Microinformáticos y Redes y graduado en Desarrollo de Aplicaciones Multiplataforma en el IES La Mar (Xàbia), con especialización en Inteligencia Artificial y Big Data.
 
-## 📌 Proyectos destacados
+He trabajado en proyectos que abarcan aplicaciones Android, desarrollo web, herramientas con IA generativa, videojuegos y análisis de datos.
 
-<a href="https://github.com/AndresGMoran/TFG-ResiSuite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndresGMoran&repo=TFG-ResiSuite&theme=tokyonight&title_color=1f6feb&icon_color=1f6feb&border_color=1f6feb&bg_color=0d1117" />
-</a>
-<a href="https://github.com/AndresGMoran/Recreativa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndresGMoran&repo=Recreativa&theme=tokyonight&title_color=1f6feb&icon_color=1f6feb&border_color=1f6feb&bg_color=0d1117" />
-</a>
+---
 
-<br><br>
+## 🚀 Proyectos Destacados
 
-<a href="https://github.com/AndresGMoran/BattleShip">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndresGMoran&repo=BattleShip&theme=tokyonight&title_color=1f6feb&icon_color=1f6feb&border_color=1f6feb&bg_color=0d1117" />
-</a>
-<a href="https://github.com/AndresGMoran/POI-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndresGMoran&repo=POI-Manager&theme=tokyonight&title_color=1f6feb&icon_color=1f6feb&border_color=1f6feb&bg_color=0d1117" />
-</a>
+### 🏡 ResiSuite
+Aplicación para la gestión integral de residencias con versión web y Android.
 
-<br><br>
+[![Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/AndresGMoran/TFG-ResiSuite)
 
-<a href="https://github.com/AndresGMoran/Car-Insurance-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndresGMoran&repo=Car-Insurance-Manager&theme=tokyonight&title_color=1f6feb&icon_color=1f6feb&border_color=1f6feb&bg_color=0d1117" />
-</a>
-<a href="https://github.com/AndresGMoran/MultiThreadApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndresGMoran&repo=MultiThreadApp&theme=tokyonight&title_color=1f6feb&icon_color=1f6feb&border_color=1f6feb&bg_color=0d1117" />
-</a>
+---
 
-<br><br>
+### 🕹️ Recreativa
+Máquina recreativa desarrollada en Java con diferentes minijuegos.
 
-## 📊 GitHub Stats
+[![Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/AndresGMoran/Recreativa)
+
+---
+
+### 🚢 BattleShip
+Implementación del clásico juego Hundir la Flota.
+
+[![Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/AndresGMoran/BattleShip)
+
+---
+
+### 📍 POI Manager
+Gestor de puntos de interés con geolocalización y mapas.
+
+[![Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/AndresGMoran/POI-Manager)
+
+---
+
+### 🚗 Car Insurance Manager
+Aplicación para la gestión de seguros de vehículos.
+
+[![Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/AndresGMoran/Car-Insurance-Manager)
+
+---
+
+### ⚙️ MultiThreadApp
+Proyecto para practicar programación concurrente y multihilo en Java.
+
+[![Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/AndresGMoran/MultiThreadApp)
+
+---
+
+## 📫 Contacto
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresGMoran&show_icons=true&count_private=true&theme=tokyonight&bg_color=0d1117&border_color=1f6feb" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndresGMoran&langs_count=8&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=1f6feb" height="165px"/>
-</div>
 
-<br>
-
-## 🤝 Contacto
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/moranandres79@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moranandres79@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moranandres79@gmail.com)
 [![GitHub](https://img.shields.io/badge/AndresGMoran-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndresGMoran)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-glyn-moran-lamela-873266147/)
 
