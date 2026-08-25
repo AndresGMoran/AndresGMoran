@@ -14,15 +14,22 @@ He trabajado en proyectos que abarcan aplicaciones Android, desarrollo web, herr
 
 ## 🚀 Proyectos Destacados
 
+### 🕵️ Classified.ai
+Juego de resolver un caso criminal generado e impulsado con Inteligencia Artificial.
+
+[![Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/AndresGMoran/TFG-ResiSuite)
+
+---
+
 ### 🏡 ResiSuite
-Aplicación para la gestión integral de residencias con versión web y Android.
+Aplicación móvil para la gestión de una residencia y aplicación de tablet con juegos para los residentes.
 
 [![Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/AndresGMoran/TFG-ResiSuite)
 
 ---
 
 ### 🕹️ Recreativa
-Máquina recreativa desarrollada en Java con diferentes minijuegos.
+Aplicación móvil con varios juegos offline desarrollados en Java.
 
 [![Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/AndresGMoran/Recreativa)
 
@@ -36,7 +43,7 @@ Implementación del clásico juego Hundir la Flota.
 ---
 
 ### 📍 POI Manager
-Gestor de puntos de interés con geolocalización y mapas.
+Gestor de puntos de interés.
 
 [![Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/AndresGMoran/POI-Manager)
 
@@ -50,7 +57,7 @@ Aplicación para la gestión de seguros de vehículos.
 ---
 
 ### ⚙️ MultiThreadApp
-Proyecto para practicar programación concurrente y multihilo en Java.
+Proyecto para practicar programación multihilo en Python.
 
 [![Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/AndresGMoran/MultiThreadApp)
 
