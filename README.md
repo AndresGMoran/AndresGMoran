@@ -17,7 +17,7 @@ He trabajado en proyectos que abarcan aplicaciones Android, desarrollo web, herr
 ### 🕵️ Classified.ai
 Juego de resolver un caso criminal generado e impulsado con Inteligencia Artificial.
 
-[![Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/AndresGMoran/TFG-ResiSuite)
+[![Repositorio](https://github.com/AndresGMoran/Especializacion-Classified.ai)
 
 ---
 
